@@ -1,0 +1,18 @@
+[ 1547632903.574633]: IMSettings-Daemon[46452]: INFO: Starting imsettings-daemon...
+[ 1547632903.579332]: IMSettings-Daemon[46452]: INFO:   [HOME=/home/s1871317/.config/imsettings]
+[ 1547632903.581198]: IMSettings-Daemon[46452]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1547632903.584875]: IMSettings-Daemon[46452]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1547632903.591109]: IMSettings-Daemon[46452]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1547632903.592388]: IMSettings-Daemon[46452]: INFO:   [MODULES=gsettings, qt]
+
+
+[ 1547632903.596034]: IMSettings-Qt backend[46452]: WARNING **: Unable to read the Qt config file: No such file or directory
+[ 1547632903.776819]: IMSettings-Daemon[46452]: INFO: Attempting to switch IM to IBus [lang=en_GB.UTF-8, update=false]
+[ 1547632904.076405]: IMSettings-Daemon[46452]: INFO:   no need to invoke any auxiliary process for IBus
+[ 1547632904.077685]: IMSettings-Daemon[46452]: INFO:   Starting the main process for IBus [lang:en_GB.UTF-8]
+[ 1547632904.081219]: IMSettings-Daemon[46452]: INFO:   Started IBus: [process: /usr/bin/ibus-daemon -r --xim, lang: en_GB.UTF-8, pid: 46713, id: 11, time: 2019-01-16T10:01:44.081146Z
+
+[ 1547632904.082426]: IMSettings-Qt backend[46452]: WARNING **: Unable to read the Qt config file: No such file or directory
+[ 1547632904.283682]: IMSettings-GSettings backend[46452]: INFO: Setting up ibus:xim as gtk+ immodule

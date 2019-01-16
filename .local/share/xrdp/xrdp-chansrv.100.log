@@ -1,0 +1,6 @@
+[20190116-10:01:41] [CORE ] main: app started pid 46274(0x0000b4c2)
+[20190116-10:01:41] [INFO ] main: DISPLAY env var set to :100.0
+[20190116-10:01:41] [INFO ] main: using DISPLAY 100
+[20190116-10:01:41] [INFO ] channel_thread_loop: thread start
+[20190116-10:01:41] [INFO ] Socket 12: AF_UNIX connection received
+[20190116-10:01:41] [INFO ] send_init_response_message:
